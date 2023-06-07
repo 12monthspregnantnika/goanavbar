@@ -1,0 +1,123 @@
+html {
+    background-color: #333;
+}
+body, ul {
+    margin: 0;
+    padding: 0;
+  }
+  
+
+  header {
+    background-color:  #333;
+    height: 60px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline-block;
+    margin-right: 50px;
+  }
+  
+  nav ul li a {
+    display: block;
+    color:  white;
+    text-decoration: none;
+    padding: 10px;
+    font-family: Arial, sans-serif;
+    font-size: 25px;
+  }
+  
+  nav ul li a:hover {
+    background-color: #555;
+  }
+  
+
+  main {
+    margin: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    color:  white;
+  }
+  
+  h1 {
+    font-size: 32px;
+    color:  white;
+    text-align: center;
+  }
+  
+  h2 {
+    font-size: 24px;
+    color:  white;
+  }
+  
+  p {
+    margin-bottom: 20px;
+  }
+  
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+  
+  footer {
+    background-color: #333;
+    padding: 20px;
+
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+  }
+  .container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .text {
+    flex: 1;
+    margin-right: 1px;
+    
+  }
+  
+  .photo {
+    flex: 1;
+    text-align: right;
+    
+  }
+
+  .flex-container {
+    display: flex;
+    align-items: flex-start;
+  }
+  
+  .populacia {
+    flex: 1;
+    margin-right: 20px;
+  }
+  
+  .kutxeebis-ruka {
+    max-width: 400px;
+    height: auto;
+  }
+  In the CSS code above, the .flex-container class is used to display the elements side by side using flexbox. The .population-list class represents the population list and is given a flex value of 1 to occupy
+  
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
